@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hỗ trợ học tập</string>
+    <string name="thongtinkhoahoa">Thông tin khóa học</string>
+    <string name="cackhoahocdadangky">Các khóa học đã đăng ký</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">445375052758718</string>
+    <string name="fb_login_protocol_scheme">fb445375052758718</string>
+
+</resources>
